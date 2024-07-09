@@ -17,7 +17,7 @@ const routes = {
   "ecr.ouxiang.me": "https://public.ecr.aws",
 
   // staging
-  "docker-hub.ouxiang.me": "https://hub.docker.com",
+  "dockerhub.ouxiang.me": "https://hub.docker.com",
 };
 
 function routeByHosts(host) {
