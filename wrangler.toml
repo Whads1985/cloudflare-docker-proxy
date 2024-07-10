@@ -21,6 +21,7 @@ routes = [
   { pattern = "ghcr.ouxiang.me", custom_domain = true },
   { pattern = "cloudsmith.ouxiang.me", custom_domain = true },
   { pattern = "dockerhub.ouxiang.me", custom_domain = true },
+  { pattern = "docker-ce.ouxiang.me", custom_domain = true },
 ]
 
 [env.production.vars]
