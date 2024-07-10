@@ -8,6 +8,7 @@ const dockerHub = "https://registry-1.docker.io";
 const routes = {
   // production
   "docker.ouxiang.me": dockerHub,
+  "docker-ce.ouxiang.me": "https://download.docker.com",
   "quay.ouxiang.me": "https://quay.io",
   "gcr.ouxiang.me": "https://gcr.io",
   "k8s-gcr.ouxiang.me": "https://k8s.gcr.io",
