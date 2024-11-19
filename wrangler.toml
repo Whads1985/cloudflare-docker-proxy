@@ -23,6 +23,7 @@ routes = [
   { pattern = "dockerhub.ouxiang.me", custom_domain = true },
   { pattern = "docker-ce.ouxiang.me", custom_domain = true },
   { pattern = "github.ouxiang.me", custom_domain = true },
+  { pattern = "huggingface.ouxiang.me", custom_domain = true},
 ]
 
 [env.production.vars]
