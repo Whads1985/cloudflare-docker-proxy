@@ -16,6 +16,7 @@ const routes = {
   "ghcr.ouxiang.me": "https://ghcr.io",
   "cloudsmith.ouxiang.me": "https://docker.cloudsmith.io",
   "ecr.ouxiang.me": "https://public.ecr.aws",
+  "github.ouxiang.me": "https://github.com",
 
   // staging
   "dockerhub.ouxiang.me": "https://hub.docker.com",
